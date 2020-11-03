@@ -12,8 +12,6 @@ import org.openqa.selenium.support.PageFactory;
 import utilities.Config;
 import utilities.Driver;
 
-//test qw 324
-///351234514
 public class ValuesPage {
 
 	private WebDriver driver = Driver.getDriver();
