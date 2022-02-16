@@ -11,6 +11,7 @@ import org.openqa.selenium.support.PageFactory;
 
 import utilities.Config;
 import utilities.Driver;
+
 public class ValuesPage {
 
 	private WebDriver driver = Driver.getDriver();
